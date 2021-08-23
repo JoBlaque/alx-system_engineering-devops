@@ -1,3 +1,4 @@
 #!/bin/bash
-"Hello, World "|pr
+echo "Hello, World"
+
 
